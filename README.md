@@ -1,8 +1,12 @@
 # URL Rewrite
 
-Demo project implementing url rewriting for static html pages 
-(without any templating language, e.g. thymeleaf) using spring mvc and 
-spring boot auto configuration functionality.
+When searching the web on how to implement url rewriting with spring most of the times
+you end up on the [Turkey url-rewrite filter project](http://tuckey.org/urlrewrite).
+
+This demo project instead implements url rewriting for static html pages by using spring mvc 
+and spring boot auto configuration functionality only.
+
+When searching for url rewr
 
 ## Configuration
 
