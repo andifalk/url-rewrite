@@ -1,0 +1,12 @@
+spring:
+  mvc:
+    view:
+      suffix: .html
+      prefix: /
+
+rewrite:
+  entries:
+    - sourceUrl: /first
+      target: firstpage
+    - sourceUrl: /second
+      target: secondpage
